@@ -1,3 +1,4 @@
+<h1 style="text-align:center;">Images</h1>
 <body>
 <head>
  <style>
